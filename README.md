@@ -66,5 +66,5 @@ To run the compiled program:
 The game saves the highest score in a file named `highscore.txt`. When the game is restarted, the high score is loaded from this file.
 
 ## Game Screenshot
-![Tetris Screenshot](image.png)
+![Tetris Screenshot](Screenshot 2025-03-27 003308.png)
 
